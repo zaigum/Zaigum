@@ -1,0 +1,1 @@
+// JavaScript Classes: Syntactic sugar over prototypes
