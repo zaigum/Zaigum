@@ -1,0 +1,1 @@
+// Session Storage: Temporary browser storage

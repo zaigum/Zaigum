@@ -1,0 +1,1 @@
+// Fetch API: Modern way to make HTTP requests

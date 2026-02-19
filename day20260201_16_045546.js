@@ -1,0 +1,1 @@
+// Arrow Functions: Shorter syntax, lexical this binding (Entry 16)

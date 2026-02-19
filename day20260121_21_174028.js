@@ -1,0 +1,1 @@
+// Hoisting: var declarations are moved to top of scope (Entry 21)

@@ -1,0 +1,41 @@
+name: Daily JS Learning
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs daily at 9 AM UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  add-daily-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Create daily JS file
+      run: |
+        DATE=$(date +%Y%m%d)
+        TIME=$(date +%H%M%S)
+        FILENAME="day${DATE}_${TIME}.js"
+        
+        cat > "$FILENAME" << 'EOF'
+// 1. Hoisting: var declarations are moved to top of scope
+// 2. Event Loop: Handles async operations in JavaScript
+// 3. Closures: Inner functions access outer function variables
+// 4. Prototypes: Objects inherit properties from prototype chain
+// 5. Promises: Handle asynchronous operations with .then()
+// 6. Arrow Functions: Shorter syntax, lexical this binding
+// 7. Destructuring: Extract values from arrays/objects easily
+// 8. Template Literals: Use backticks for string interpolation
+// 9. Spread Operator: ...array expands elements
+// 10. Async/Await: Cleaner syntax for promise-based code
+EOF
+        
+        git add "$FILENAME"
+        git commit -m "Add daily JS learning: 10 JavaScript concepts - $DATE"
+    
+    - name: Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git push

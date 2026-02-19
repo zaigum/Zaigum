@@ -1,0 +1,1 @@
+// Destructuring: Extract values from arrays/objects easily (Entry 27)

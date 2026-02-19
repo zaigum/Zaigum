@@ -1,0 +1,1 @@
+// Cookies: Small data stored in browser
