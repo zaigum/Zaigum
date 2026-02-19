@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zaigum Naseem</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Specialist;Building+Modern+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Expert;Building+Scalable+Web+Apps" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zaigum&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -14,15 +14,15 @@
 
 💻 Passionate **React & .NET Developer** with 2+ years of experience  
 🔥 Specialized in scalable, high-performance web applications  
-⚙️ Strong expertise in Microsoft Technologies & Modern Frontend  
-🎯 Focused on Clean Architecture & User-Centric UI  
-🌱 Continuously learning advanced backend & cloud technologies  
+⚙️ Expert in Microsoft & Modern Frontend Technologies  
+🎯 Focused on clean code, performance & UI excellence  
+🌱 Continuously learning backend & cloud integration  
 
 ---
 
-# 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
-## 🚀 Frontend Development
+### 🚀 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
 </p>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🔧 Backend Development (.NET Ecosystem)
+### 🔧 Backend Development (.NET Ecosystem)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
@@ -59,7 +59,7 @@
 
 ---
 
-## 🗄️ Database & Cloud
+### 🗄️ Database & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Tools & Version Control
+### 🛠️ Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
@@ -79,46 +79,49 @@
 
 ---
 
-# 🌐 Featured Projects
+## 🌐 Featured Projects
 
-🔹 Modern Website  
+🔹 **Modern Website**  
 https://modern-webiste.netlify.app/
 
-🔹 Agency Website  
+🔹 **Agency Website**  
 https://agency-website1122.netlify.app/
 
-🔹 Dashboard (Firebase)  
+🔹 **Dashboard (Firebase)**  
 https://dashboard1122.netlify.app/
 
-🔹 3D Interactive Website  
+🔹 **3D Interactive Website**  
 https://3d-website2211.netlify.app/
 
-🔹 Video Screenshot Tool  
+🔹 **Video Screenshot Tool**  
 https://video-screenshot.netlify.app/
 
-🔹 Fit-Connect Platform  
+🔹 **Fit-Connect Platform**  
 https://fit-connect007.netlify.app/
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaigum&theme=tokyonight" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 📧 infozaigum@gmail.com  
 📍 Lahore, Pakistan  
