@@ -1,1 +1,0 @@
-// Spread Operator: ...array expands elements (Entry 49)

@@ -1,1 +1,0 @@
-// Closures: Inner functions access outer function variables (Entry 13)

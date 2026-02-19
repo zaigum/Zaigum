@@ -1,1 +1,0 @@
-// Ternary Operator: Conditional expression

@@ -1,1 +1,0 @@
-// Rest Parameters: Collecting function arguments

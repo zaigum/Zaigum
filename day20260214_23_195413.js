@@ -1,1 +1,0 @@
-// Strict Mode: Enforces stricter parsing and error handling

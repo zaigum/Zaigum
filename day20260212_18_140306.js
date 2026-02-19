@@ -1,1 +1,0 @@
-// WeakMap and WeakSet: Garbage-collectable collections

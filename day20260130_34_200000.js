@@ -1,1 +1,0 @@
-// Prototypes: Objects inherit properties from prototype chain (Entry 34)
