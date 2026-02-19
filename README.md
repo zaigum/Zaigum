@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Zaigum Naseem</h1>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Expert;Building+Scalable+Web+Apps" />
 </h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaigum&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=infozaigum&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Passionate **React & .NET Developer** with 2+ years of experience  
-🔥 Specialized in scalable, high-performance web applications  
-⚙️ Expert in Microsoft & Modern Frontend Technologies  
-🎯 Focused on clean code, performance & UI excellence  
-🌱 Continuously learning backend & cloud integration  
+💻 Passionate **React & .NET Developer** with 2+ years of experience
+🔥 Specialized in scalable, high-performance web applications
+⚙️ Expert in Microsoft & Modern Frontend Technologies
+🎯 Focused on clean code, performance & UI excellence
+🌱 Continuously learning backend & cloud integration
 
 ---
 
@@ -27,19 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
 </p>
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- TypeScript  
-- React.js  
-- Next.js  
-- Redux  
-- Tailwind CSS  
-- Bootstrap  
-- Material UI  
-- Ant Design  
-- Framer Motion  
-- Responsive Web Design  
+HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Redux · Tailwind CSS · Bootstrap · Material UI · Ant Design · Framer Motion · Responsive Web Design
 
 ---
 
@@ -48,14 +34,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
 
-- .NET  
-- ASP.NET  
-- ASP.NET Core  
-- ASP.NET MVC  
-- ASP.NET Web API  
-- C#  
-- Entity Framework  
-- LINQ  
+.NET · ASP.NET Core · ASP.NET MVC · ASP.NET Web API · C# · Entity Framework · LINQ
 
 ---
 
@@ -64,67 +43,62 @@
   <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
 
-- SQL Server  
-- Firebase  
+SQL Server · Firebase
 
 ---
 
 ### 🛠️ Tools & Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-- Git  
-- GitHub  
+Git · GitHub · VS Code · Visual Studio
 
 ---
 
 ## 🌐 Featured Projects
 
-🔹 **Modern Website**  
-https://modern-webiste.netlify.app/
-
-🔹 **Agency Website**  
-https://agency-website1122.netlify.app/
-
-🔹 **Dashboard (Firebase)**  
-https://dashboard1122.netlify.app/
-
-🔹 **3D Interactive Website**  
-https://3d-website2211.netlify.app/
-
-🔹 **Video Screenshot Tool**  
-https://video-screenshot.netlify.app/
-
-🔹 **Fit-Connect Platform**  
-https://fit-connect007.netlify.app/
+| Project | Live Demo |
+|---------|-----------|
+| 🎨 Modern Website | [Visit](https://modern-webiste.netlify.app/) |
+| 🏢 Agency Website | [Visit](https://agency-website1122.netlify.app/) |
+| 📊 Dashboard (Firebase) | [Visit](https://dashboard1122.netlify.app/) |
+| 🌐 3D Interactive Website | [Visit](https://3d-website2211.netlify.app/) |
+| 🎬 Video Screenshot Tool | [Visit](https://video-screenshot.netlify.app/) |
+| 💪 Fit-Connect Platform | [Visit](https://fit-connect007.netlify.app/) |
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=infozaigum&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infozaigum&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaigum&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infozaigum&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 infozaigum@gmail.com  
-📍 Lahore, Pakistan  
+<p align="center">
+  <a href="mailto:infozaigum@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/infozaigum">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📍 Lahore, Pakistan
 
 ---
 
