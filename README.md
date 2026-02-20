@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zaigum Naseem</h1>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Expert;Building+Scalable+Web+Apps" />
 </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaigum&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -14,49 +16,78 @@
 🔥 Specialized in scalable, high-performance web applications  
 ⚙️ Expert in Microsoft & Modern Frontend Technologies  
 🎯 Focused on clean code, performance & UI excellence  
-🌱 Continuously learning backend & cloud integration  
+🌱 Continuously learning backend architecture & cloud integration  
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+# 🛠️ Tech Stack
 
-### 🚀 Frontend Development
+---
+
+## 🚀 Frontend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
 </p>
 
-HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React.js · Next.js · Redux · Tailwind CSS · Bootstrap · Material UI · Ant Design · Framer Motion · Responsive Web Design
-
 ---
 
-### 🔧 Backend Development (.NET Ecosystem)
+## 🔧 Backend Development (.NET Ecosystem)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
-.NET · ASP.NET Core · ASP.NET MVC · ASP.NET Web API · C# · Entity Framework · LINQ
+ASP.NET Core · ASP.NET MVC · Web API · Entity Framework · LINQ  
 
 ---
 
-### 🗄️ Database & Cloud
+## 🗄️ Database & Cloud
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
-SQL Server · Firebase
+SQL Server · Firebase · Azure  
 
 ---
 
-### 🛠️ Tools & Version Control
+## 🚀 Deployment & DevOps
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
-Git · GitHub · VS Code · Visual Studio
+---
+
+## 🛠️ Tools & Version Control
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
-## 🌐 Featured Projects
+# 🌐 Featured Projects
 
 | Project | Live Demo |
 |---------|-----------|
@@ -69,7 +100,8 @@ Git · GitHub · VS Code · Visual Studio
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight&hide_border=true" />
@@ -77,14 +109,15 @@ Git · GitHub · VS Code · Visual Studio
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zaigum&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:infozaigum@gmail.com">
@@ -96,10 +129,7 @@ Git · GitHub · VS Code · Visual Studio
   </a>
 </p>
 
-📍 Lahore, Pakistan
-
----
-
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+📍 Lahore, Pakistan  
+⭐ If you like my work, consider giving a star to my repositories!
 </p>
