@@ -10,39 +10,23 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Passionate **React & .NET Developer** with 2+ years of experience  
-🔥 Specialized in scalable, high-performance web applications  
-⚙️ Expert in Microsoft & Modern Frontend Technologies  
-🎯 Focused on clean code, performance & UI excellence  
-🌱 Continuously learning backend architecture & cloud integration  
+💻 Passionate **.NET & React Developer**  
+🔥 2+ Years of Experience in Full Stack Web Development  
+⚙️ Specialized in Microsoft & Modern Frontend Technologies  
+🎯 Focused on Clean Architecture & Scalable Applications  
+🌱 Continuously Learning & Improving  
 
----
-
-# 🛠️ Tech Stack
+📍 Lahore, Pakistan  
 
 ---
 
-## 🚀 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=materialui" />
-</p>
+# 🛠️ Tech Stack & Skills
 
 ---
 
-## 🔧 Backend Development (.NET Ecosystem)
+## 🔹 Backend (.NET Ecosystem)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" />
@@ -50,40 +34,49 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
-ASP.NET Core · ASP.NET MVC · Web API · Entity Framework · LINQ  
+.NET • ASP.NET • ASP.NET Core • ASP.NET API • ASP.NET MVC • WebAPI • C# • Entity Framework • LINQ
 
 ---
 
-## 🗄️ Database & Cloud
+## 🔹 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
-SQL Server · Firebase · Azure  
+SQL Server • Firebase
 
 ---
 
-## 🚀 Deployment & DevOps
+## 🔹 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
 </p>
+
+HTML5 • CSS • JavaScript • React.js • Redux • TypeScript • Next.js • Tailwind • Bootstrap • Material UI • Ant Design • SASS • Framer Motion • Responsive Web Design
 
 ---
 
-## 🛠️ Tools & Version Control
+## 🔹 Version Control & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
+Git • GitHub
 
 ---
 
@@ -91,20 +84,20 @@ SQL Server · Firebase · Azure
 
 | Project | Live Demo |
 |---------|-----------|
-| 🎨 Modern Website | [Visit](https://modern-webiste.netlify.app/) |
-| 🏢 Agency Website | [Visit](https://agency-website1122.netlify.app/) |
-| 📊 Dashboard (Firebase) | [Visit](https://dashboard1122.netlify.app/) |
-| 🌐 3D Interactive Website | [Visit](https://3d-website2211.netlify.app/) |
-| 🎬 Video Screenshot Tool | [Visit](https://video-screenshot.netlify.app/) |
-| 💪 Fit-Connect Platform | [Visit](https://fit-connect007.netlify.app/) |
+| 🎨 Modern Website | https://modern-webiste.netlify.app/ |
+| 🏢 Agency Website | https://agency-website1122.netlify.app/ |
+| 📊 Dashboard (Firebase) | https://dashboard1122.netlify.app/ |
+| 🌐 3D Interactive Website | https://3d-website2211.netlify.app/ |
+| 🎬 Video Screenshot Tool | https://video-screenshot.netlify.app/ |
+| 💪 Fit-Connect Platform | https://fit-connect007.netlify.app/ |
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -129,7 +122,8 @@ SQL Server · Firebase · Azure
   </a>
 </p>
 
+---
+
 <p align="center">
-📍 Lahore, Pakistan  
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
