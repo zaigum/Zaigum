@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:0d1117&height=120&section=header" width="100%"/>
-    
+     
 # Hi 👋, I'm Zaigum Naseem   
      
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Expert;Building+Scalable+Web+Apps+%F0%9F%9A%80" />
