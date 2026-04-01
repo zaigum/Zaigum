@@ -28,6 +28,7 @@
   "openToWork" : true
 }
 ```
+ 
 
 - 💻 Passionate **React & .NET Developer** with **2+ years** of experience
 - 🔥 Specialized in **scalable, high-performance** web applications
