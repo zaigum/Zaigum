@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117)
 
 </div>
-    
+     
 ---
 
 ## 🚀 About Me
