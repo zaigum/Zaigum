@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=.NET+Developer;React+Developer;Full+Stack+Web+Developer;ASP.NET+Core+Expert;Building+Scalable+Web+Apps+%F0%9F%9A%80" /> 
            
 <br/>                              
-                                 
+                                  
                 
 [![Profile Views](https://komarev.com/ghpvc/?username=zaigum&label=Profile+Views&color=00f7ff&style=flat-square)](https://github.com/zaigum)
 &nbsp;
