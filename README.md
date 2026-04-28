@@ -7,7 +7,7 @@
               
 <br/>                                         
                                         
-                    
+                      
 [![Profile Views](https://komarev.com/ghpvc/?username=zaigum&label=Profile+Views&color=00f7ff&style=flat-square)](https://github.com/zaigum)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117)
