@@ -13,7 +13,7 @@ const colors = {
 };
 
 // Change to the correct directory
-const repoPath = 'C:\\Users\\theza\\Daily_improvement_code_JS';
+const repoPath = 'F:\\Zaigum';
 process.chdir(repoPath);
 
 const allTopics = [
