@@ -107,17 +107,6 @@
 
 ---
 
-## 🌐 Featured Projects
-
-| # | Project | Live Demo |
-|:-:|---------|:---------:|
-| 01 | 🎨 **Modern Website** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://modern-webiste.netlify.app/) |
-| 02 | 🏢 **Agency Website** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://agency-website1122.netlify.app/) |
-| 03 | 📊 **Dashboard (Firebase)** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://dashboard1122.netlify.app/) |
-| 04 | 🌐 **3D Interactive Website** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://3d-website2211.netlify.app/) |
-| 05 | 🎬 **Video Screenshot Tool** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://video-screenshot.netlify.app/) |
-| 06 | 💪 **Fit-Connect Platform** | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=netlify&logoColor=black)](https://fit-connect007.netlify.app/) |
-
 ---
 
 ## 📊 GitHub Analytics
