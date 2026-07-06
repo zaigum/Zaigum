@@ -82,13 +82,7 @@
 ## 📊 GitHub Analytics <div align="center"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaigum&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />&nbsp;<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaigum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" /> </div>
 ---
 
-## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=zaigum&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" />
-
-</div>
 
 ---
 
