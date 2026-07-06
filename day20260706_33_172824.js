@@ -1,0 +1,1 @@
+// Event Delegation: Handling events on parent elements
