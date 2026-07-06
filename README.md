@@ -38,15 +38,15 @@
 
 ---
 
-## 🛠️ Tech Stack & Expertise
- 
-### 🚀 Frontend Development
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,dotnet,cs,firebase,mysql,git,github,vscode" />
 </div>
 
 <br/>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -58,54 +58,24 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
----
- 
-### 🔧 Backend Development (.NET Ecosystem)
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</div>
-
-<br/>
-
+&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-239120?style=flat-square&logo=csharp&logoColor=white)
-
----
-
-### 🗄️ Database & Cloud
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</div>
-
-<br/>
-
+&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 🛠️ Tools & Version Control
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
-<br/>
-
+&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
----
+</div>
 
 ---
 
