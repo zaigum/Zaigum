@@ -1,0 +1,1 @@
+// XMLHttpRequest: Traditional AJAX method
