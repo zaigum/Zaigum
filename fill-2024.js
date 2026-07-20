@@ -60,6 +60,9 @@ for (const day of days) {
   for (let i = 0; i < commitCount; i++) {
     const topicIndex = (total) % topics.length;
     const filename = `fill2024_${dateStr}_${i}.js`;
+
+    // Skip if file already committed
+    if (fs.existsSync(filename)) { total++; continue; }
     const commitMsg = `Add ${topicNames[topicIndex]} - JS Learning ${isoDate}`;
     const hour = String(Math.floor((i / commitCount) * 22) + 1).padStart(2, '0');
     const fakeDate = `${isoDate}T${hour}:00:00`;

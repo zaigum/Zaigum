@@ -41,12 +41,17 @@ async function run() {
 
   // ─── 1. Pair Extraordinaire ───
   console.log('1️⃣  Pair Extraordinaire - Co-authored commits...');
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 10; i++) {
     const filename = `coauthor_${Date.now()}_${i}.js`;
-    fs.writeFileSync(`F:\\Zaigum\\${filename}`, `// Co-authored commit ${i}\n`);
+    fs.writeFileSync(`F:\\Zaigum\\${filename}`, `// Co-authored commit ${i}\nconst topic = 'JS Learning ${i}';\n`);
     execSync(`git -C F:\\Zaigum add ${filename}`);
-    execSync(`git -C F:\\Zaigum commit -m "Co-authored learning ${i}\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"`);
+    execSync(`git -C F:\\Zaigum commit -m "Co-authored JS learning ${i}\n\nCo-authored-by: zaiynnn <300540938+zaiynnn@users.noreply.github.com>"`);
+    await sleep(500);
   }
+  execSync('git -C F:\\Zaigum add .');
+  execSync('git -C F:\\Zaigum stash');
+  execSync('git -C F:\\Zaigum pull --rebase origin main');
+  execSync('git -C F:\\Zaigum stash pop');
   execSync('git -C F:\\Zaigum push');
   console.log('✅ Pair Extraordinaire commits pushed!\n');
 
